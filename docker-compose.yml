@@ -4,3 +4,4 @@ services:
     build: .
     environment:
       BOT_TOKEN: $BOT_TOKEN
+      GDRIVE_FOLDER_ID: $GDRIVE_FOLDER_ID
